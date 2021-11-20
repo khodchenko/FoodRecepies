@@ -1,5 +1,5 @@
 # FoodRecepies
-ShimmerRecyclerView
+ShimmerRecyclerView library 
 
 Retrofit
 
@@ -10,3 +10,5 @@ Hilt
 Data Binding
 
 DiffUtil
+
+COIL Image Loading library
