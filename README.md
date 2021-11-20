@@ -6,3 +6,5 @@ Retrofit
 ROOM
 
 Hilt
+
+Data Binding
