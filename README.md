@@ -8,3 +8,5 @@ ROOM
 Hilt
 
 Data Binding
+
+DiffUtil
