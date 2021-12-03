@@ -10,6 +10,7 @@ import androidx.navigation.ui.setupWithNavController
 import com.example.foody.R
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.activity_main.*
+
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
