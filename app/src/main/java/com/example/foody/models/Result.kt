@@ -1,6 +1,5 @@
 package com.example.foody.models
 
-
 import com.google.gson.annotations.SerializedName
 
 data class Result(
@@ -20,14 +19,10 @@ data class Result(
     val image: String,
     @SerializedName("readyInMinutes")
     val readyInMinutes: Int,
-    @SerializedName("servings")
-    val servings: Int,
     @SerializedName("sourceName")
     val sourceName: String,
     @SerializedName("sourceUrl")
     val sourceUrl: String,
-    @SerializedName("spoonacularSourceUrl")
-    val spoonacularSourceUrl: String,
     @SerializedName("summary")
     val summary: String,
     @SerializedName("title")
@@ -37,5 +32,5 @@ data class Result(
     @SerializedName("vegetarian")
     val vegetarian: Boolean,
     @SerializedName("veryHealthy")
-    val veryHealthy: Boolean
+    val veryHealthy: Boolean,
 )
